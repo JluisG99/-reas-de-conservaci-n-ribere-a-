@@ -1,6 +1,6 @@
 # Áreas de conservación ribereña de Costa Rica y el ordenamiento ambiental del territorio.  
 La zona de conservación ribereña es una pequeña porción del territorio que bordea el cauce de los ríos, lagos, humedales y otros cuerpos de agua. Estos parches   boscosos además de poseer un alto valor ecológico, tiene un gran potencial para la conservación de especies que se encuentran en peligro de extinción. Sin embargo, en   Costa Rica, muchos ríos cuentan con muy poca área de conservación, dejando de ese modo a muchas especies aisladas, con déficit alimenticio y con un habitad cada vez   mas reducido.  
-![Rio Reventazón, Siquirres](https://sfo2.digitaloceanspaces.com/elpaiscr/2019/11/R%C3%ADo-Reventaz%C3%B3n-en-el-Caribe-de-Costa-Rica.-CNE.jpg)
+![Reventazón](https://sfo2.digitaloceanspaces.com/elpaiscr/2019/11/R%C3%ADo-Reventaz%C3%B3n-en-el-Caribe-de-Costa-Rica.-CNE.jpg)
 ## Ley Forestal:  
 Según la [Procuraduría General de la Republica]( Áreas de Protección - Procuraduría General de la República (pgr.go.cr)) la **Ley Forestal** en su articulo 33   establece cuáles son esas áreas de protección.  
 “**Artículo 33**.- Áreas de protección. Se declaran áreas de protección las siguientes:  
