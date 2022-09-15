@@ -1,8 +1,8 @@
 # Áreas de conservación ribereña de Costa Rica y el ordenamiento ambiental del territorio.  
-La zona de conservación ribereña es una pequeña porción del territorio que bordea el cauce de los ríos, lagos, humedales y otros cuerpos de agua. Estos parches   boscosos además de poseer un alto valor ecológico, tiene un gran potencial para la conservación de especies que se encuentran en peligro de extinción. Sin embargo, en   Costa Rica, muchos ríos cuentan con muy poca área de conservación, dejando de ese modo a muchas especies aisladas, con déficit alimenticio y con un habitad cada vez   mas reducido.  
-![Reventazón](Río-Reventazón-en-el-Caribe-de-Costa-Rica.-CNE.jpg)
+La zona de conservación ribereña es una pequeña porción del territorio que bordea el cauce de los ríos, lagos, humedales y otros cuerpos de agua. Estos parches   boscosos además de poseer un alto valor ecológico, tiene un gran potencial para la conservación de especies que se encuentran en peligro de extinción. Sin embargo, en   Costa Rica, muchos ríos cuentan con muy poca área de conservación, dejando de ese modo a muchas especies aisladas, con déficit alimenticio y con un habitad cada vez   más reducido. En la siguiente imágen, [ElPais.cr](https://www.elpais.cr/2019/11/19/construccion-de-dique-en-siquirres-prevendra-inundaciones-a-cinco-mil-pobladores/)
+![Reventazón](Río-Reventazón-en-el-Caribe-de-Costa-Rica.-CNE.jpg) permite ver un ejemplo de zonas del rio río Reventazón totalmente desprotegidas.
 ## Ley Forestal:  
-Según la [Procuraduría General de la Republica]( Áreas de Protección - Procuraduría General de la República (pgr.go.cr)) la **Ley Forestal** en su articulo 33   establece cuáles son esas áreas de protección.  
+Según la [Procuraduría General de la Republica](https://www.pgr.go.cr/servicios/procuraduria-ambiental/areas-de-proteccion/) la **Ley Forestal** en su articulo 33   establece cuáles son esas áreas de protección.  
 “**Artículo 33**.- Áreas de protección. Se declaran áreas de protección las siguientes:  
 1. Las áreas que bordeen nacientes permanentes, definidas en un radio de _cien metros_ medidos de modo horizontal.  
 2. Una franja de **quince metros** en *zona rural* y de **diez metros** en *zona urbana*, medidas horizontalmente a ambos lados, en las riberas de los ríos, quebradas o arroyos, si el terreno es plano, y de cincuenta metros horizontales, si el terreno es quebrado.  
@@ -17,7 +17,7 @@ Según [Jones, Villalobos & Menacho, 2021](https://www.researchgate.net/publicat
 * Y un ambiente modificado por estructuras de origen antropogénico. 
 ![Alouatta Palliata](https://th.bing.com/th/id/R.153a942d16778c42e86711f6761c271a?rik=kpvsh07O99%2fO5A&pid=ImgRaw&r=0)
 ### Ordenamiento ambiental del territorio:
-Finalmente, el ordenamiento ambiental del territorio es una herramienta que puede ser utilizada desde el quehacer geográfico para resolver los conflictos territoriales existentes entre las diferentes formas de existir, háblese de los individuos humanos y no humanos, siendo los primeros los que ejercen mayor presión ecológica sobre el resto.  
+Finalmente, el ordenamiento ambiental del territorio es una herramienta que puede ser utilizada por los profesionales en **Geografía** para resolver los conflictos territoriales existentes entre las diferentes formas de existir, háblese de los individuos humanos y no humanos, siendo los primeros los que ejercen mayor presión ecológica sobre el resto.  
 > Distintas estrategias de desarrollo socioeconómico conducen a modelos diferentes de organización del espacio en el territorio; en similar sentido, toda estructura 
 > territorial dada impone condicionantes a las relaciones económicas y socia les que sobre ella puedan establecerse, según procesos de distinto orden: ecológicos, 
 > productivos y culturales.  
