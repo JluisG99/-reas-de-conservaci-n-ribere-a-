@@ -15,7 +15,7 @@ Según [Jones, Villalobos & Menacho, 2021](https://www.researchgate.net/publicat
 * Problemas relacionados con el aislamiento.
 * La pérdida de conectividad en el paisaje. 
 * Y un ambiente modificado por estructuras de origen antropogénico. 
-[Alouatta Palliata](https://th.bing.com/th/id/R.153a942d16778c42e86711f6761c271a?rik=kpvsh07O99%2fO5A&pid=ImgRaw&r=0)
+![Alouatta Palliata](https://th.bing.com/th/id/R.153a942d16778c42e86711f6761c271a?rik=kpvsh07O99%2fO5A&pid=ImgRaw&r=0)
 ### Ordenamiento ambiental del territorio:
 Finalmente, el ordenamiento ambiental del territorio es una herramienta que puede ser utilizada desde el quehacer geográfico para resolver los conflictos territoriales existentes entre las diferentes formas de existir, háblese de los individuos humanos y no humanos, siendo los primeros los que ejercen mayor presión ecológica sobre el resto.  
 > Distintas estrategias de desarrollo socioeconómico conducen a modelos diferentes de organización del espacio en el territorio; en similar sentido, toda estructura 
