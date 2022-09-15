@@ -1,5 +1,5 @@
 # Áreas de conservación ribereña de Costa Rica y el ordenamiento ambiental del territorio.  
-La zona de conservación ribereña es una pequeña porción del territorio que bordea el cauce de los ríos, lagos, humedales y otros cuerpos de agua. Estos parches   boscosos además de poseer un alto valor ecológico, tiene un gran potencial para la conservación de especies que se encuentran en peligro de extinción. Sin embargo, en   Costa Rica, muchos ríos cuentan con muy poca área de conservación, dejando de ese modo a muchas especies aisladas, con déficit alimenticio y con un habitad cada vez   más reducido. En la siguiente imágen se puede ver un ejemplo de zonas del río Reventazón totalmente desprotegidas, por [ElPais.cr](https://www.elpais.cr/2019/11/19/construccion-de-dique-en-siquirres-prevendra-inundaciones-a-cinco-mil-pobladores/)
+La zona de _conservación ribereña_ es una pequeña porción del territorio que bordea el cauce de los ríos, lagos, humedales y otros cuerpos de agua. Estos parches   boscosos además de poseer un alto valor ecológico, tiene un gran potencial para la conservación de especies que se encuentran en peligro de extinción. Sin embargo, en   Costa Rica, muchos ríos cuentan con muy poca área de conservación, dejando de ese modo a muchas especies aisladas, con déficit alimenticio y con un habitad cada vez   más reducido. En la siguiente imágen se puede ver un ejemplo de zonas del río Reventazón totalmente desprotegidas, por [ElPais.cr](https://www.elpais.cr/2019/11/19/construccion-de-dique-en-siquirres-prevendra-inundaciones-a-cinco-mil-pobladores/)
 ![Reventazón](Río-Reventazón-en-el-Caribe-de-Costa-Rica.-CNE.jpg) 
 ## Ley Forestal:  
 Según la [Procuraduría General de la Republica](https://www.pgr.go.cr/servicios/procuraduria-ambiental/areas-de-proteccion/) la **Ley Forestal** en su articulo 33   establece cuáles son esas áreas de protección.  
@@ -14,7 +14,7 @@ En Costa Rica existen miles de especies que se ven beneficiadas de los ecosistem
 Según [Jones, Villalobos & Menacho, 2021](https://www.researchgate.net/publication/352417887_Amenazas_que_enfrentan_los_monos_congo_Alouata_palliata_en_Costa_Rica_e_iniciativas_de_conservacion_para_el_bienestar_y_una_coexistencia_sana_con_la_especie) la principal amenaza que enfrenta especie, es la perdida del habitad y la fragmentación del bosque, esta grave problemática expone a las manadas a:
 * Problemas relacionados con el aislamiento.
 * La pérdida de conectividad en el paisaje. 
-* Y un ambiente modificado por estructuras de origen antropogénico. 
+* Y un ambiente modificado por estructuras de origen _antropogénico_. 
 ![Alouatta Palliata](https://th.bing.com/th/id/R.153a942d16778c42e86711f6761c271a?rik=kpvsh07O99%2fO5A&pid=ImgRaw&r=0)
 Fuente: [El Llamado del Mono Congo](https://llamadodelmonocongo.wordpress.com/blog-2/)  
 ### Ordenamiento ambiental del territorio:
