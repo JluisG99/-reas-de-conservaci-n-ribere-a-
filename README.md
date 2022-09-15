@@ -23,4 +23,5 @@ Finalmente, el ordenamiento ambiental del territorio es una herramienta que pued
 > territorial dada impone condicionantes a las relaciones económicas y socia les que sobre ella puedan establecerse, según procesos de distinto orden: ecológicos, 
 > productivos y culturales.  
 Iglesias, A (2006)  
-Ante lo anterior, y mediante una amplia variedad de metodologías que utilizan Sistemas de Información Geográfica **SIG** y técnicas de **teledetección**, permiten al Geógrafo generar análisis de calidad para la interpretación de este tipo de problemas ecológicos, así como para modelar espacialmente diferentes escenarios que permitan desarrollar proyectos para la conservación de los ecosistemas ribereños. 
+
+Ante lo anterior, y mediante una amplia variedad de metodologías que utilizan Sistemas de Información Geográfica **SIG** y técnicas de **teledetección**, permiten al Geógrafo generar análisis de calidad para la interpretación de este tipo de problemas ecológicos, así como para modelar espacialmente diferentes escenarios que permitan desarrollar proyectos para la conservación de los ecosistemas ribereños.  
