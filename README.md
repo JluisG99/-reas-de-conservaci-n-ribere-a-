@@ -18,9 +18,9 @@ Según [Jones, Villalobos & Menacho, 2021](https://www.researchgate.net/publicat
 ![Alouatta Palliata](https://th.bing.com/th/id/R.153a942d16778c42e86711f6761c271a?rik=kpvsh07O99%2fO5A&pid=ImgRaw&r=0)
 Fuente: [El Llamado del Mono Congo](https://llamadodelmonocongo.wordpress.com/blog-2/)  
 ### Ordenamiento ambiental del territorio:
-Finalmente, el ordenamiento ambiental del territorio es una herramienta que puede ser utilizada por los profesionales en **Geografía** para resolver los conflictos territoriales existentes entre las diferentes formas de existir, háblese de los individuos humanos y no humanos, siendo los primeros los que ejercen mayor presión ecológica sobre el resto.  
+Finalmente, el ordenamiento ambiental del territorio es una herramienta que puede ser utilizada por los profesionales en **Geografía** para resolver los conflictos territoriales existentes entre las diferentes formas de existir, háblese de los individuos humanos y no humanos, siendo los primeros los que ejercen mayor presión ecológica sobre el resto. Puesto que este problema es meramente social, es preciso comprender la raíz del problema, desde los actores responsables de ejercer estas modificaciones sobre el territorio.  
 > Distintas estrategias de desarrollo socioeconómico conducen a modelos diferentes de organización del espacio en el territorio; en similar sentido, toda estructura 
-> territorial dada impone condicionantes a las relaciones económicas y socia les que sobre ella puedan establecerse, según procesos de distinto orden: ecológicos, 
+> territorial dada impone condicionantes a las relaciones económicas y sociales que sobre ella puedan establecerse, según procesos de distinto orden: ecológicos, 
 > productivos y culturales.  
 Iglesias, A (2006)  
 
